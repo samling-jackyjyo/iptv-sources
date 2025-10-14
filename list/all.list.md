@@ -1,4 +1,4 @@
-# List for **epg.pw All**
+# List for **epg.pw All**(Rollback)
 
 > M3U: [all.m3u](/all.m3u), TXT: [all.txt](/txt/all.txt)
 
@@ -531,7 +531,7 @@
 | 525 | [HD]hmong tv network | stream1.freetv.fun | <https://stream1.freetv.fun/476598479708d0a84efe459581fef917457d9151cdd04196f9328d13217e8222.m3u8> |
 | 526 | [BD]fubo sports network | stream1.freetv.fun | <https://stream1.freetv.fun/ea0deec3841e76a545168c2bb33e459528341c746d42c54ee78302792d3c8907.m3u8> |
 | 527 | [HD]探索亚洲 *wj | stream1.freetv.fun | <https://stream1.freetv.fun/20998c2a8b975cd25613c538b086137be2dd8b5c3c1cc5b8499993afffe309ed.ctv> |
-| 528 | [SD]fnx [geo-blocked] | stream1.freetv.fun | <https://stream1.freetv.fun/d41dc2677bc7b6970b1807a8343a41e0a821e40321a046c6648ade56296e1f7a.m3u8> |
+| 528 | [SD]fnx | stream1.freetv.fun | <https://stream1.freetv.fun/d41dc2677bc7b6970b1807a8343a41e0a821e40321a046c6648ade56296e1f7a.m3u8> |
 | 529 | [HD]us fxm | stream1.freetv.fun | <https://stream1.freetv.fun/a14a1173d839a223181b550c90435188b2c5d6b5848825663dd3e760a9968416.ctv> |
 | 530 | [HD]ca fxx | stream1.freetv.fun | <https://stream1.freetv.fun/30fcdb7cb81218c3b1557b2d1a140f0f25aec043bdede716edd180166538c849.ctv> |
 | 531 | [BD]fashion tv | stream1.freetv.fun | <https://stream1.freetv.fun/8c70c40b46aae42aa879202c4e56f8b9aacd4bbe6053fea5e7b8fad8d2970826.m3u8> |
@@ -886,7 +886,7 @@
 | 880 | [HD]ca own | stream1.freetv.fun | <https://stream1.freetv.fun/97f1c78cf08e9a9def2cb560dd27e8f1a549aaaa2cd14ff5631e4cba7451a27d.ctv> |
 | 881 | [BD]oberpfalz tv | stream1.freetv.fun | <https://stream1.freetv.fun/bdca855ad23517e0399fa474a24688fdc622f1cd1915132de56abbbc660677d3.m3u8> |
 | 882 | [BD]ok stendal | stream1.freetv.fun | <https://stream1.freetv.fun/e4d5b9f14f563b2e593f89328a358c7fbbfbdf9ec58ef9d95a8296e40ecdc66b.m3u8> |
-| 883 | [SD]okey [geo-blocked] | stream1.freetv.fun | <https://stream1.freetv.fun/5f99937c504c003619e9ed0df31769f2567b11229b1184f3a0d7e1c1c6b2c865.m3u8> |
+| 883 | [SD]okey | stream1.freetv.fun | <https://stream1.freetv.fun/5f99937c504c003619e9ed0df31769f2567b11229b1184f3a0d7e1c1c6b2c865.m3u8> |
 | 884 | [BD]okto tv | stream1.freetv.fun | <https://stream1.freetv.fun/5b2e3eeefc6f1ee4b57033565efd684c848ff4a39dbf913ca5db008636056a6c.m3u8> |
 | 885 | [SD]onda tv | stream1.freetv.fun | <https://stream1.freetv.fun/55c46b0989e7d638801398ac8d3346a0f8aa6e101a4bb134f8e5c00f787c3049.m3u8> |
 | 886 | [BD]us one america news | stream1.freetv.fun | <https://stream1.freetv.fun/6e1b5f8bc3483219f61cfd0446a1acd8e9d7371349302bff83c7bd1f591619dc.ctv> |
@@ -1845,4 +1845,4 @@
 | 1839 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/c18a68c08db26e594330015d8ba2b4db254e993bdf7ce3e5dfb9c920038ed8a5.m3u8> |
 | 1840 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/f3e4792919e603bd0eb00254eb263931dbab92a22578853745d8dbe977714338.m3u8> |
 
-Updated at **Tue Oct 14 2025 02:56:19 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Oct 14 2025 04:14:47 GMT+0000 (Coordinated Universal Time)**
